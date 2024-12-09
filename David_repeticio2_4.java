@@ -2,6 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 public class David_repeticio2_4 {
     public static void main(String[] args) {
+        // canvi Gisela
         Scanner entrada = new Scanner(System.in);
         Random rand = new Random();
         String jugadorposletra = "";
