@@ -7,7 +7,7 @@ public class David_repeticio2_4 {
         Random rand = new Random();
         String jugadorposletra = "";
         int contador = 0, jugadorpos = -2,jugadornum = -1, posicio,numero;
-        
+         
         posicio = rand.nextInt(4 - 1 + 1) +1;
         numero = rand.nextInt(4 - 1 +1)+1;
         for (int i=0; i <5;i++){
